@@ -104,7 +104,7 @@ node default {
   include charles
   include transmit
   include virtualbox
-  include parallels
+  include parallels::v8
   include skype
   include hipchat
   include dropbox

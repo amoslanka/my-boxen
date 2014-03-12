@@ -86,4 +86,9 @@ node default {
     ensure => link,
     target => $boxen::config::repodir
   }
+  
+  # Applications
+  include chrome
+  include firefox
+  
 }

@@ -71,7 +71,7 @@ github "postgresapp"
 github "charles"
 github "transmit"
 github "virtualbox"
-github "parallels", repo: 'thisishugo/puppet-parallels'
+github "parallels", { repo: 'thisishugo/puppet-parallels' }
 github "skype"
 github "hipchat"
 github "dropbox"

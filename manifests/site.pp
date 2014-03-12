@@ -91,8 +91,6 @@ node default {
   include chrome
   include firefox
   
-  
-  include "rbenv"
   include java
   include vagrant
   include redis

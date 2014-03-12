@@ -91,4 +91,30 @@ node default {
   include chrome
   include firefox
   
+  
+  include "rbenv"
+  include java
+  include vagrant
+  include redis
+  include memcached
+  include heroku
+  include imagemagick
+
+  include chrome
+  include firefox
+  include postgresapp
+  include charles
+  include transmit
+  include virtualbox
+  include parallels
+  include skype
+  include hipchat
+  include dropbox
+  include sequel_pro
+  include sublime_text_2
+  include spotify
+  include googledrive
+  include propane
+  include imageoptim
+
 }
